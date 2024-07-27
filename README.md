@@ -44,4 +44,4 @@ $ node index. js
 ##License
 [MIT License](https://github.com/Ngoni-Sama/Wa-OpenAI/blob/main/LICENSE)
 
-Copyright (c) 2022 Ngonidzashe Maphosa, all credit goes to Fortune Nowakee ,nowakee.com
+Copyright (c) 2022 Ngonidzashe Maphosa, please leave a star it helps motivate me
